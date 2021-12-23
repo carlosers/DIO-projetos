@@ -25,6 +25,7 @@ exemplo: git commit -m "bla bla bla"
 
 # Vale a pena rever
 dica github para criar um repositório novo pela linha de comando (terminal).
+
 echo "# meuProjeto" >> README.md
 git init
 git add README.md
@@ -33,7 +34,8 @@ git branch -M main
 git remote add origin https://github.com/carlosers/meuProjeto.git
 git push -u origin main
 
-…ou atualize um repositorio local com alterações que subiram via terminal
+…ou atualize um repositorio remoto com alterações que locais
+
 git remote add origin https://github.com/carlosers/meuProjeto.git
 git branch -M main
 git push -u origin main
