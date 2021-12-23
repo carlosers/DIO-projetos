@@ -7,5 +7,6 @@ Aqui você encontra todos os exemplos e desafios propostos pelos bootcamps ofere
 #Anotacoes
 Nesta pasta, você pode encontrar anotações por linguagem para rever
 
-
+## Links Utéis
+[Guia MarkDown](https://www.markdownguide.org/getting-started/)
 
